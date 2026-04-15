@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Neon Flap</string>
+    <string name="title_activity_main">Neon Flap</string>
+    <string name="package_name">com.terraastudios.neonflap</string>
+    <string name="custom_url_scheme">com.terraastudios.neonflap</string>
+</resources>

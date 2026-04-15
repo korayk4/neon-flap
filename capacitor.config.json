@@ -1,0 +1,13 @@
+{
+  "appId": "com.terraastudios.neonflap",
+  "appName": "Neon Flap",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#000000",
+    "scrollEnabled": false
+  },
+  "android": {
+    "backgroundColor": "#000000"
+  }
+}
