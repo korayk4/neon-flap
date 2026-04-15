@@ -1,6 +1,6 @@
 # Neon Flap
 
-A neon-themed hyper-casual flappy bird game built with HTML5 Canvas and deployed natively to iOS & Android via Capacitor.
+A neon-themed hyper-casual game built with HTML5 Canvas and deployed natively to iOS & Android via Capacitor.
 
 **[App Store](https://apps.apple.com/app/neon-flap)** | **[Google Play](https://play.google.com/store/apps/details?id=com.terraastudios.neonflap)**
 
